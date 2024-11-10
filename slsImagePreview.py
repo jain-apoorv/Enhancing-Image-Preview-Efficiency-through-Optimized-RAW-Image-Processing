@@ -1,8 +1,4 @@
 
-'''
-2021IMT015
-Apoorv Jain
-'''
 
 import rawpy
 import numpy as np
